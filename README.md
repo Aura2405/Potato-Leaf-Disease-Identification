@@ -42,7 +42,7 @@ Detailed architecture is in the notebook.
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/potato-leaf-disease-cnn.git
+   git clone https://github.com/Aura2405/potato-leaf-disease-identification.git
    cd potato-leaf-disease-identification
    
 2. Create a virtual environment (optional but recommended):
