@@ -46,16 +46,19 @@ Detailed architecture is in the notebook.
    cd potato-leaf-disease-identification
    
 2. Create a virtual environment (optional but recommended):
+   ```bash
    python -m venv venv
    source venv/bin/activate  # on Linux/Mac
    venv\Scripts\activate     # on Windows
 
 3. Install Dependencies:
+   ```bash
    pip install -r requirements.txt
 
 4. Download the dataset (see above) and place it in dataset/ 
 
 5. Open and run the notebook:
+   ```bash
    jupyter notebook potato.ipynb
 
 You can also load the saved model from the '1/' directory.  
