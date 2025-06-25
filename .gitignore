@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+# Ignore model and dataset folders
+model/
+dataset/
+*.h5
+*.pb
+*.zip
+
 # Distribution / packaging
 .Python
 build/
